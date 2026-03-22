@@ -1,0 +1,17 @@
+#!/usr/bin/env bash
+
+curl -L -O -C - https://huggingface.co/unsloth/Qwen3-Coder-Next-GGUF/resolve/main/UD-Q8_K_XL/Qwen3-Coder-Next-UD-Q8_K_XL-00001-of-00003.gguf
+curl -L -O -C - https://huggingface.co/unsloth/Qwen3-Coder-Next-GGUF/resolve/main/UD-Q8_K_XL/Qwen3-Coder-Next-UD-Q8_K_XL-00002-of-00003.gguf
+curl -L -O -C - https://huggingface.co/unsloth/Qwen3-Coder-Next-GGUF/resolve/main/UD-Q8_K_XL/Qwen3-Coder-Next-UD-Q8_K_XL-00003-of-00003.gguf
+
+curl -L -O -C - https://huggingface.co/unsloth/Qwen3.5-122B-A10B-GGUF/resolve/main/UD-IQ4_NL/Qwen3.5-122B-A10B-UD-IQ4_NL-00001-of-00003.gguf
+curl -L -O -C - https://huggingface.co/unsloth/Qwen3.5-122B-A10B-GGUF/resolve/main/UD-IQ4_NL/Qwen3.5-122B-A10B-UD-IQ4_NL-00002-of-00003.gguf
+curl -L -O -C - https://huggingface.co/unsloth/Qwen3.5-122B-A10B-GGUF/resolve/main/UD-IQ4_NL/Qwen3.5-122B-A10B-UD-IQ4_NL-00003-of-00003.gguf
+
+curl -L -O -C - https://huggingface.co/unsloth/NVIDIA-Nemotron-3-Super-120B-A12B-GGUF/resolve/main/UD-IQ4_NL/NVIDIA-Nemotron-3-Super-120B-A12B-UD-IQ4_NL-00001-of-00003.gguf
+curl -L -O -C - https://huggingface.co/unsloth/NVIDIA-Nemotron-3-Super-120B-A12B-GGUF/resolve/main/UD-IQ4_NL/NVIDIA-Nemotron-3-Super-120B-A12B-UD-IQ4_NL-00002-of-00003.gguf
+curl -L -O -C - https://huggingface.co/unsloth/NVIDIA-Nemotron-3-Super-120B-A12B-GGUF/resolve/main/UD-IQ4_NL/NVIDIA-Nemotron-3-Super-120B-A12B-UD-IQ4_NL-00003-of-00003.gguf
+
+curl -L -O -C - https://huggingface.co/unsloth/Mistral-Small-4-119B-2603-GGUF/resolve/main/UD-IQ4_NL/Mistral-Small-4-119B-2603-UD-IQ4_NL-00001-of-00003.gguf
+curl -L -O -C - https://huggingface.co/unsloth/Mistral-Small-4-119B-2603-GGUF/resolve/main/UD-IQ4_NL/Mistral-Small-4-119B-2603-UD-IQ4_NL-00002-of-00003.gguf
+curl -L -O -C - https://huggingface.co/unsloth/Mistral-Small-4-119B-2603-GGUF/resolve/main/UD-IQ4_NL/Mistral-Small-4-119B-2603-UD-IQ4_NL-00003-of-00003.gguf
