@@ -15,3 +15,8 @@ curl -L -O -C - https://huggingface.co/unsloth/NVIDIA-Nemotron-3-Super-120B-A12B
 curl -L -O -C - https://huggingface.co/unsloth/Mistral-Small-4-119B-2603-GGUF/resolve/main/UD-IQ4_NL/Mistral-Small-4-119B-2603-UD-IQ4_NL-00001-of-00003.gguf
 curl -L -O -C - https://huggingface.co/unsloth/Mistral-Small-4-119B-2603-GGUF/resolve/main/UD-IQ4_NL/Mistral-Small-4-119B-2603-UD-IQ4_NL-00002-of-00003.gguf
 curl -L -O -C - https://huggingface.co/unsloth/Mistral-Small-4-119B-2603-GGUF/resolve/main/UD-IQ4_NL/Mistral-Small-4-119B-2603-UD-IQ4_NL-00003-of-00003.gguf
+
+curl -L -O -C - https://huggingface.co/unsloth/MiniMax-M2.5-GGUF/resolve/main/UD-Q3_K_XL/MiniMax-M2.5-UD-Q3_K_XL-00001-of-00004.gguf
+curl -L -O -C - https://huggingface.co/unsloth/MiniMax-M2.5-GGUF/resolve/main/UD-Q3_K_XL/MiniMax-M2.5-UD-Q3_K_XL-00002-of-00004.gguf
+curl -L -O -C - https://huggingface.co/unsloth/MiniMax-M2.5-GGUF/resolve/main/UD-Q3_K_XL/MiniMax-M2.5-UD-Q3_K_XL-00003-of-00004.gguf
+curl -L -O -C - https://huggingface.co/unsloth/MiniMax-M2.5-GGUF/resolve/main/UD-Q3_K_XL/MiniMax-M2.5-UD-Q3_K_XL-00004-of-00004.gguf
