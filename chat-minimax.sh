@@ -11,7 +11,7 @@ llama-cli --model ~/llama-models/MiniMax-M2.5-UD-Q3_K_XL-00001-of-00004.gguf \
 	  --threads 6 \
 	  --n-gpu-layers all \
 	  --ctx-size 65536 \
-     --cache-type-k q8_0 \
-     --cache-type-v q8_0
+      --cache-type-k q8_0 \
+      --cache-type-v q8_0 \
 	  --flash-attn on \
 	  --conversation

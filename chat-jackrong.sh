@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-llama-cli --model ~/llama-models/Qwen3.5-122B-A10B-UD-IQ4_NL-00001-of-00003.gguf \
+llama-cli --model ~/llama-models/Qwen3.5-27B.Q8_0.Claude4.6OpusDistilled.gguf \
 	  --temp 0.6 \
 	  --top-p 0.95 \
 	  --top-k 20 \
