@@ -1,16 +1,15 @@
 #!/usr/bin/env bash
 
-llama-cli --model ~/llama-models/Qwen3.5-27B.Q8_0.gguf \
-	  --temp 0.6 \
+llama-cli --model ~/llama-models/gemma-4-31B-it-UD-Q8_K_XL.gguf \
+	  --temp 1.0 \
 	  --top-p 0.95 \
-	  --top-k 20 \
-	  --min-p 0.00 \
+	  --top-k 64 \
 	  --presence_penalty 0.0 \
 	  --repeat_penalty 1.0 \
 	  --threads 6 \
 	  --n-gpu-layers all \
 	  --ctx-size 262144 \
-     --cache-type-k bf16 \
-     --cache-type-v bf16 \
+      --cache-type-k q8_0 \
+      --cache-type-v q8_0 \
 	  --flash-attn on \
 	  --conversation

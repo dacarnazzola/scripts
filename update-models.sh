@@ -20,3 +20,7 @@ curl -L -O -C - https://huggingface.co/unsloth/MiniMax-M2.5-GGUF/resolve/main/UD
 curl -L -O -C - https://huggingface.co/unsloth/MiniMax-M2.5-GGUF/resolve/main/UD-Q3_K_XL/MiniMax-M2.5-UD-Q3_K_XL-00002-of-00004.gguf
 curl -L -O -C - https://huggingface.co/unsloth/MiniMax-M2.5-GGUF/resolve/main/UD-Q3_K_XL/MiniMax-M2.5-UD-Q3_K_XL-00003-of-00004.gguf
 curl -L -O -C - https://huggingface.co/unsloth/MiniMax-M2.5-GGUF/resolve/main/UD-Q3_K_XL/MiniMax-M2.5-UD-Q3_K_XL-00004-of-00004.gguf
+
+curl -L -O -C - https://huggingface.co/Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled-GGUF/resolve/main/Qwen3.5-27B.Q8_0.gguf
+
+curl -L -O -C - https://huggingface.co/unsloth/gemma-4-31B-it-GGUF/resolve/main/gemma-4-31B-it-UD-Q8_K_XL.gguf
